@@ -1,0 +1,42 @@
+ *{
+ 	box-sizing:border-box;
+ 	padding:0;
+ 	margin:0;
+ }
+/*HEADER*/
+ header{
+ 	background: url(../images/1920x665-1.jpg)no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	background-color:rgba(3, 3, 3, 0.4);
+    background-blend-mode: color;	   
+    padding-top:3%;
+	vertical-align:middle;
+}
+/*MENU*/
+header nav {
+    font-size: 1.1em;
+    text-align: right;
+    vertical-align:middle;
+}
+header nav a{
+	color: white;
+    padding: 3%;
+    font-size: 1.1em;
+    vertical-align: middle;
+}
+header nav a:hover{
+	text-decoration:none;
+	color:#0174DF;
+}
+header h1{
+	padding-top:15%;
+	width:600px;
+	text-align:center;
+	color:white;
+	margin:auto;
+
+}
+
+/*# sourceMappingURL=main.css.map */
